@@ -1,0 +1,4 @@
+npm init -y
+npm install vue -S
+add index.html
+add src/main.js
